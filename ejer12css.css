@@ -1,0 +1,29 @@
+.p{
+    color: red;
+    border: 1px solid red;
+    border-style: dotted;
+    border-width: 3px;
+    border-right-style: solid;
+    border-left-style: solid;
+    width: 25%;
+
+}
+.p1{
+    color: red;
+    border: 1px solid red;
+    border-style: dotted;
+    border-width: 3px;
+    border-right-style: double;
+    border-left-style: solid;
+    width: 40%;
+}
+.p2{
+    background-image: url(oveja.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+.p3{
+    background-image: url(oveja.png);
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+}

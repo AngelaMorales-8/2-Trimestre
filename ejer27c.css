@@ -1,0 +1,51 @@
+#div1 {
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 2px;
+  background-color: #ffe469;
+  width: 430px;
+  text-align: center;
+  font-weight: bold;
+  font-size: large;
+}
+
+#div2 {
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 2px;
+  background-color: #ffe469;
+  width: 400px;
+
+}
+
+.imag1 {
+  left: 50px;
+  width: 80px;
+}
+
+.imag2 {
+  float: right;
+  width: 80px;
+}
+
+#div3 {
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 2px;
+  background-color: #ffe469;
+  width: 400px;
+}
+
+.imag3 {
+  float: right;
+  width: 80px;
+}
+
+
+#div4 {
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 2px;
+  background-color: #ffe469;
+  width: 400px;
+}

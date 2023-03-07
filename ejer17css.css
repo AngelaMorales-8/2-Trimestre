@@ -1,0 +1,21 @@
+.caja{
+    background-color: rgb(167, 167, 167);
+}
+.caja1{
+    background-color: rgb(151, 149, 149);
+    background-position: center center;
+    max-width: 1100px;
+    margin: 100px auto;
+    padding: 100px 0px;
+    
+    text-align: center;
+}
+.caja2{
+    background-color: rgb(202, 202, 202);
+    max-width: 600px;
+    margin-left: 200px;
+    padding-left: 80px;
+    padding-top: 60px;
+    padding-bottom: 80px;
+    padding-right: 70px;
+}

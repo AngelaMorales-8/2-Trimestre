@@ -1,0 +1,17 @@
+.caja1 {
+    width: 400px;
+    border: 2px solid rgba(128, 128, 128, 0.842);
+    position: fixed;
+    background-color: rgb(216, 208, 208);
+    left: 100px;
+    top: 80px;
+}
+
+.caja2 {
+    width: 12cm;
+    border: 2px grey solid;
+}
+.caja3 {
+    width: 12cm;
+    border: 2px grey solid;
+}

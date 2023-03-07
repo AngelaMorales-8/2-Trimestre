@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(rgb(219, 167, 167), rgb(228, 211, 98), rgb(219, 219, 219));
+}
+
+.p1 {
+    background-image: url("osi.gif");
+    background-repeat: no-repeat;
+    background-position: right top;
+    height:50px;
+    background-color: rgb(4, 49, 249);
+    border: 5px solid black;
+    border-radius:200px;
+    padding:20px;
+    color: white;
+  }
+  .p2 {
+    border: 5px solid gray;
+    padding: 20px;
+    border-radius: 25px;
+    width:900px;
+    background-color:black;
+    color:gray;
+  }
+  .p3 {
+    border: 5px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    color:black;
+    width: 700px;
+    background-image: url("osi.gif");
+    background-repeat: repeat;
+  }

@@ -1,0 +1,26 @@
+body{
+    border-style: solid;
+    border-color: blue;
+    width: 600px;
+    padding-bottom: 20px;
+    padding-right: 1px;
+}
+.p{
+    margin-left: 70px;
+    background-color: rgb(134, 249, 253);
+    width: 300px;
+}
+.p1{
+    background-color:rgb(134, 249, 253) ;
+    padding-top: 20px;
+    width: 500px;
+    padding-bottom: 20px;
+    padding-left: 50px
+}
+.p2{
+    background-color: rgb(134, 249, 253);
+    padding-top: 20px;
+    width: 500px;
+    padding-bottom: 20px;
+    padding-left: 50px
+}

@@ -1,0 +1,37 @@
+.caja1{
+    font-size: x-large;
+    background: blue;
+    color: white;
+    margin: 2px;
+    display: inline;
+}
+.caja2{
+    font-size: x-large;
+    background: blue;
+    color: white;
+    margin: 2px;
+    display: inline;
+}
+
+.caja3{
+    font-size: x-large;
+    background: blue;
+    color: white;
+    margin:2px;
+    display: inline;
+}
+img{
+    width: 300px;
+}
+.dib1{
+    float: none;
+}
+.dib2{
+    float: left;
+}
+.dib3{
+    float: right
+}
+.p1{
+    width: 1000px;
+}
